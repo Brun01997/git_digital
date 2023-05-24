@@ -5,3 +5,5 @@
 ** Git stage
 
 ** comando git push
+
+** git é muito chato
