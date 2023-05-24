@@ -11,6 +11,7 @@
 O Bruno é bonitão
 
 Hello
-
 *comando git push
+*comando git pull
 
+*comando git fat
