@@ -2,3 +2,6 @@
 
 # Salvando modificações no GIT
 
+** Git stage
+
+** comando git push
