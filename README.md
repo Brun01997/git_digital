@@ -7,3 +7,5 @@
 ** comando git push
 
 ** git é muito chato
+
+O Bruno é bonitão
